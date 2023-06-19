@@ -1,0 +1,25 @@
+.conteiner-form{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    padding:20px;
+    background-color:rgba(245, 222, 179, 0.189);
+    box-shadow: 1px 1px 10px black;
+}
+.conteiner-form img{
+    width: 300px;
+    margin-right: 20px;
+
+}
+.conteiner-form form{
+    max-width: 500px;
+
+}
+fieldset{
+    height: 400px;
+    padding: 10px;
+}
+fieldset input {
+    width: 50%;
+
+}
